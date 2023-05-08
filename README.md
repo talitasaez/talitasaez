@@ -1,4 +1,4 @@
-### 👩‍🦳 TALITA SAEZ
+# 👩‍🦳 Talita Saez
 Desenvolvimento Web Full Stack Jr.
 
 ### 🎓 Formação:
