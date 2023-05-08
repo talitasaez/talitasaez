@@ -31,9 +31,9 @@ Desenvolvimento Web Full Stack Jr.
 ### 📃 Certificados:
 
 <p>
-<a href="https://www.credential.net/e173dad2-a538-4a32-9956-dcdec6b12fdd" target="_blank"> Fundamentos de Desenvolvimento Web </a>  |  
-<a href="https://www.credential.net/529f31cc-dfac-4ba5-9c86-9464f2323590" target="_blank"> Desenvolvimento Front End </a>  |  
-<a href="https://www.credential.net/5c563e1d-0d24-484d-9bac-39b9ddbae04b" target="_blank"> Desenvolvimento Back End </a></p>
+<a href="https://www.credential.net/e173dad2-a538-4a32-9956-dcdec6b12fdd" target="_blank" rel="noopener noreferrer"> Fundamentos de Desenvolvimento Web </a>  |  
+<a href="https://www.credential.net/529f31cc-dfac-4ba5-9c86-9464f2323590" target="_blank" rel="noopener noreferrer"> Desenvolvimento Front End </a>  |  
+<a href="https://www.credential.net/5c563e1d-0d24-484d-9bac-39b9ddbae04b" target="_blank" rel="noopener noreferrer"> Desenvolvimento Back End </a></p>
 
 ### 📱 Contatos:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tltsaez@gmail.com)
