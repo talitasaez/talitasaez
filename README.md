@@ -32,6 +32,12 @@ Desenvolvimento Web Full Stack Jr.
 <a href="https://www.credential.net/529f31cc-dfac-4ba5-9c86-9464f2323590"> Desenvolvimento Front End </a>  |  
 <a href="https://www.credential.net/5c563e1d-0d24-484d-9bac-39b9ddbae04b"> Desenvolvimento Back End </a></p>
 
-### ✉️ Contatos:
+### 📱 Contatos:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tltsaez@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talita-saez-dev-full-stack/)
+
+### 📈 Estatísticas:
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=talitasaez&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitasaez&layout=compact&theme=tokyonight"/>  
+</div>
